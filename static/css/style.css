@@ -1,0 +1,53 @@
+/* Style all paragraphs */
+p {
+    color: #333333;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Style all level two headers */
+h2 {
+    color: #294c80;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Add borders */
+table, th, td {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #294c80;
+    border-collapse: collapse;
+}
+
+/* Styling the third paragraph using an ID */
+p#special {
+    color: #294c80;
+    font-size: 18px;
+    background-color: #e5efff;
+}
+
+/* Style elements using a class */
+.highlight {
+    color: #294c80;
+    background-color: #e5efff;
+}
+
+/* Style the image using a named class */
+img.logo {
+    width: 200px;
+    height: 150px;
+}
+
+  /* Style the overall webpage */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fc;
+    margin: 30px;
+}
+
+/* Style the image using a named class */
+img.logo {
+    width: 250px;
+    height: 75px;
+}
